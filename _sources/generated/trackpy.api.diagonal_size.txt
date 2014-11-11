@@ -1,0 +1,6 @@
+trackpy.api.diagonal_size
+=========================
+
+.. currentmodule:: trackpy.api
+
+.. autofunction:: diagonal_size

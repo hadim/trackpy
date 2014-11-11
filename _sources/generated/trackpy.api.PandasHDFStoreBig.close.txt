@@ -1,0 +1,6 @@
+trackpy.api.PandasHDFStoreBig.close
+===================================
+
+.. currentmodule:: trackpy.api
+
+.. automethod:: PandasHDFStoreBig.close

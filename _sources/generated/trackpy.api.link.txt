@@ -1,0 +1,6 @@
+trackpy.api.link
+================
+
+.. currentmodule:: trackpy.api
+
+.. autofunction:: link

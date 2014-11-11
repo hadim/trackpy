@@ -1,0 +1,6 @@
+trackpy.api.TrackUnstored.reset_counter
+=======================================
+
+.. currentmodule:: trackpy.api
+
+.. automethod:: TrackUnstored.reset_counter

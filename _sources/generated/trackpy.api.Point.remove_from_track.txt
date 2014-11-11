@@ -1,0 +1,6 @@
+trackpy.api.Point.remove_from_track
+===================================
+
+.. currentmodule:: trackpy.api
+
+.. automethod:: Point.remove_from_track

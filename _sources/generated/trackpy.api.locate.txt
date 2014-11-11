@@ -1,0 +1,6 @@
+trackpy.api.locate
+==================
+
+.. currentmodule:: trackpy.api
+
+.. autofunction:: locate

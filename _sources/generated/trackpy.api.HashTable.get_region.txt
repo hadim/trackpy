@@ -1,0 +1,6 @@
+trackpy.api.HashTable.get_region
+================================
+
+.. currentmodule:: trackpy.api
+
+.. automethod:: HashTable.get_region

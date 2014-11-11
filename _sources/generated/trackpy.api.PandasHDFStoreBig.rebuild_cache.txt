@@ -1,0 +1,6 @@
+trackpy.api.PandasHDFStoreBig.rebuild_cache
+===========================================
+
+.. currentmodule:: trackpy.api
+
+.. automethod:: PandasHDFStoreBig.rebuild_cache

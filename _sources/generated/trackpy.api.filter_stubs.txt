@@ -1,0 +1,6 @@
+trackpy.api.filter_stubs
+========================
+
+.. currentmodule:: trackpy.api
+
+.. autofunction:: filter_stubs

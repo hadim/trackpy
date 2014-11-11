@@ -1,0 +1,6 @@
+trackpy.api.refine
+==================
+
+.. currentmodule:: trackpy.api
+
+.. autofunction:: refine

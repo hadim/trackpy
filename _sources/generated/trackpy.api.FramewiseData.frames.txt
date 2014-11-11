@@ -1,0 +1,6 @@
+trackpy.api.FramewiseData.frames
+================================
+
+.. currentmodule:: trackpy.api
+
+.. autoattribute:: FramewiseData.frames

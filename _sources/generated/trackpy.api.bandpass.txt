@@ -1,0 +1,6 @@
+trackpy.api.bandpass
+====================
+
+.. currentmodule:: trackpy.api
+
+.. autofunction:: bandpass

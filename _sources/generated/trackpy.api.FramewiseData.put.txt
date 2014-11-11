@@ -1,0 +1,6 @@
+trackpy.api.FramewiseData.put
+=============================
+
+.. currentmodule:: trackpy.api
+
+.. automethod:: FramewiseData.put

@@ -1,0 +1,6 @@
+trackpy.api.TrackUnstored.incr_memory
+=====================================
+
+.. currentmodule:: trackpy.api
+
+.. automethod:: TrackUnstored.incr_memory

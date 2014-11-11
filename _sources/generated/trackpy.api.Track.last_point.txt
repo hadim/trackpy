@@ -1,0 +1,6 @@
+trackpy.api.Track.last_point
+============================
+
+.. currentmodule:: trackpy.api
+
+.. automethod:: Track.last_point

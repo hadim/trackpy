@@ -1,0 +1,6 @@
+trackpy.api.SubnetOversizeException
+===================================
+
+.. currentmodule:: trackpy.api
+
+.. autoexception:: SubnetOversizeException

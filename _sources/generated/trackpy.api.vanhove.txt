@@ -1,0 +1,6 @@
+trackpy.api.vanhove
+===================
+
+.. currentmodule:: trackpy.api
+
+.. autofunction:: vanhove

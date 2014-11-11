@@ -1,0 +1,6 @@
+trackpy.api.PandasHDFStore.max_frame
+====================================
+
+.. currentmodule:: trackpy.api
+
+.. autoattribute:: PandasHDFStore.max_frame

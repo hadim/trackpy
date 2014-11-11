@@ -1,0 +1,6 @@
+trackpy.api.link_iter
+=====================
+
+.. currentmodule:: trackpy.api
+
+.. autofunction:: link_iter

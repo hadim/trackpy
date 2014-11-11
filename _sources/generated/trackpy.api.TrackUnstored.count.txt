@@ -1,0 +1,6 @@
+trackpy.api.TrackUnstored.count
+===============================
+
+.. currentmodule:: trackpy.api
+
+.. autoattribute:: TrackUnstored.count

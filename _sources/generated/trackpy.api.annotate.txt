@@ -1,0 +1,6 @@
+trackpy.api.annotate
+====================
+
+.. currentmodule:: trackpy.api
+
+.. autofunction:: annotate

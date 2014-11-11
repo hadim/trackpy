@@ -1,0 +1,6 @@
+trackpy.api.TrackUnstored.add_point
+===================================
+
+.. currentmodule:: trackpy.api
+
+.. automethod:: TrackUnstored.add_point

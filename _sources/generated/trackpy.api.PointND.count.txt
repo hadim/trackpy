@@ -1,0 +1,6 @@
+trackpy.api.PointND.count
+=========================
+
+.. currentmodule:: trackpy.api
+
+.. autoattribute:: PointND.count

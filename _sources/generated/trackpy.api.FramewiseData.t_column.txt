@@ -1,0 +1,6 @@
+trackpy.api.FramewiseData.t_column
+==================================
+
+.. currentmodule:: trackpy.api
+
+.. autoattribute:: FramewiseData.t_column

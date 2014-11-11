@@ -1,0 +1,6 @@
+trackpy.api.PointND.distance
+============================
+
+.. currentmodule:: trackpy.api
+
+.. automethod:: PointND.distance

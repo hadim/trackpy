@@ -1,0 +1,6 @@
+trackpy.api.is_typical
+======================
+
+.. currentmodule:: trackpy.api
+
+.. autofunction:: is_typical

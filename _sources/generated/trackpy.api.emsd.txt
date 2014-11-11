@@ -1,0 +1,6 @@
+trackpy.api.emsd
+================
+
+.. currentmodule:: trackpy.api
+
+.. autofunction:: emsd

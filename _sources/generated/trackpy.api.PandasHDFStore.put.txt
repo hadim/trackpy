@@ -1,0 +1,6 @@
+trackpy.api.PandasHDFStore.put
+==============================
+
+.. currentmodule:: trackpy.api
+
+.. automethod:: PandasHDFStore.put

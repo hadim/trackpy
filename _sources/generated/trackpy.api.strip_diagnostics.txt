@@ -1,0 +1,6 @@
+trackpy.api.strip_diagnostics
+=============================
+
+.. currentmodule:: trackpy.api
+
+.. autofunction:: strip_diagnostics
